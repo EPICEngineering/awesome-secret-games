@@ -1,5 +1,5 @@
-# awesome-game-theory
-Awesome Artefacts About Game Theory
+# awesome-secret-games
+Awesome Artefacts About Privacy Preserving Games
 
 ## Privacy Preservation Problems
 
@@ -8,3 +8,6 @@ Awesome Artefacts About Game Theory
 
 ### Privacy Preserving Public Information for Sequential Games 
 - http://jamiemorgenstern.com/papers/privacy-seq.pdf
+
+### Cooperative Games in Data Publishing 
+- https://hcis-journal.springeropen.com/articles/10.1186/s13673-016-0069-y
